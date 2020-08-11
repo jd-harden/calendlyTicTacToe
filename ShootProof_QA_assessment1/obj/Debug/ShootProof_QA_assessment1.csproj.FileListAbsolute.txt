@@ -24,7 +24,6 @@ C:/Users/Harden/source/repos/ShootProof_QA_assessment1/ShootProof_QA_assessment1
 /Users/james.harden/Downloads/ShootProof_QA_assessment1/ShootProof_QA_assessment1/bin/Debug/nunit.framework.pdb
 /Users/james.harden/Downloads/ShootProof_QA_assessment1/ShootProof_QA_assessment1/bin/Debug/nunit.framework.xml
 /Users/james.harden/Downloads/ShootProof_QA_assessment1/ShootProof_QA_assessment1/bin/Debug/WebDriver.xml
-/Users/james.harden/Downloads/ShootProof_QA_assessment1/ShootProof_QA_assessment1/obj/Debug/ShootProof_QA_assessment1.csprojAssemblyReference.cache
 /Users/james.harden/Downloads/ShootProof_QA_assessment1/ShootProof_QA_assessment1/obj/Debug/ShootProof_QA_assessment1.csproj.CoreCompileInputs.cache
 /Users/james.harden/Downloads/ShootProof_QA_assessment1/ShootProof_QA_assessment1/obj/Debug/ShootProof_QA_assessment1.csproj.CopyComplete
 /Users/james.harden/Downloads/ShootProof_QA_assessment1/ShootProof_QA_assessment1/obj/Debug/ShootProof_QA_assessment1.dll
